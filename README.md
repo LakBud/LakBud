@@ -28,19 +28,27 @@
 ## 🛠 Tech Stack
 
 <p align="center" style="margin-top: 0;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" alt="JSON" width="48" height="48" style="margin: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="80" height="80" style="margin: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="80" height="80" style="margin: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="80" height="80" style="margin: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" alt="JSON" width="80" height="80" style="margin: 0 10px;" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center" style="margin-top: 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=LakBud&show_icons=true&title_color=5D4037&icon_color=8D6E63&text_color=5D4037&bg_color=F7F3F0" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LakBud&theme=default" alt="GitHub Streak Stats" width="48%" />
+<p align="center" style="margin-top: 0; display: flex; justify-content: center; gap: 10px;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=LakBud&show_icons=true&title_color=5D4037&icon_color=8D6E63&text_color=5D4037&bg_color=F7F3F0" 
+    alt="GitHub Stats" 
+    style="border-radius: 12px;"
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=LakBud&theme=default" 
+    alt="GitHub Streak Stats" 
+    style="border-radius: 12px;"
+  />
 </p>
 
 ---
@@ -48,8 +56,8 @@
 ## 🌟 Contact
 
 <p align="center" style="margin-top: 0;">
-  <a href="https://twitter.com/BuddoYap" target="_blank" rel="noopener noreferrer" aria-label="Twitter" style="margin-right: 15px;">
-    <img src="https://img.shields.io/badge/-Twitter-8D6E63?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
+  <a href="https://x.com/BuddoYap" target="_blank" rel="noopener noreferrer" aria-label="X" style="margin-right: 15px;">
+    <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x-twitter&logoColor=white" alt="X Badge" />
   </a>
   <a href="https://www.youtube.com/c/Budosso" target="_blank" rel="noopener noreferrer" aria-label="YouTube">
     <img src="https://img.shields.io/badge/-YouTube-BB0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge" />
