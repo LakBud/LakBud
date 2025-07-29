@@ -48,9 +48,6 @@
 ## 🌟 Contact
 
 <p align="center" style="margin-top: 0;">
-  <a href="https://github.com/LakBud" target="_blank" rel="noopener noreferrer" aria-label="GitHub" style="margin-right: 15px;">
-    <img src="https://img.shields.io/badge/-GitHub-5D4037?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
-  </a>
   <a href="https://twitter.com/BuddoYap" target="_blank" rel="noopener noreferrer" aria-label="Twitter" style="margin-right: 15px;">
     <img src="https://img.shields.io/badge/-Twitter-8D6E63?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
   </a>
