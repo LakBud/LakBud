@@ -1,5 +1,5 @@
 <h1 align="center" style="color:#5D4037; font-weight: 900; text-shadow: 0 0 8px #8D6E63;">Buddo/LakBud</h1>
-<h3 align="center" style="color:#8D6E63; font-weight: 600;">A passionate Front-End Developer learning React</h3>
+<h3 align="center" style="color:#8D6E63; font-weight: 600;">A passionate Developer</h3>
 
 <!-- Fancier Animated intro with gradient glow -->
 <p align="center" style="margin-top: -10px;">
