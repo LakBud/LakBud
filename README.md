@@ -55,7 +55,6 @@
 - 🌱 Learning **React** & modern front-end best practices  
 - 🎯 Goal: Become a **Full-Stack MERN Developer**  
 - ⚡ Fun fact: Love experimenting with **UI designs & animations** ☕
-- (PS: For now, my Portfolio is the only actual project I have made. More coming soon!)
 
 ---
 
