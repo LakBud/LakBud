@@ -51,7 +51,7 @@
 
 ## 🚀 About Me
 
-- 💻 Building **clean, responsive websites** with HTML, CSS, JavaScript  
+- 💻 Building **clean, responsive websites** with Frontend Technology 
 - 🌱 Learning **React** & modern front-end best practices  
 - 🎯 Goal: Become a **Full-Stack MERN Developer**  
 - ⚡ Fun fact: Love experimenting with **UI designs & animations** ☕
