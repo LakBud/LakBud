@@ -51,10 +51,10 @@
 
 ## 🚀 About Me
 
-- 💻 Building **clean, responsive websites** with Frontend Technology 
+- 💻 I like programming
 - 🌱 Learning **React** & modern front-end best practices  
-- 🎯 Goal: Become a **Full-Stack MERN Developer**  
-- ⚡ Fun fact: Love experimenting with **UI designs & animations** ☕
+- 🎯 My goal for now is becoming a **Full-Stack MERN Developer**  
+- ⚡ Fun fact: Programming currently is a hobby, im still wondering if this is the career i want to take
 
 ---
 
