@@ -17,15 +17,6 @@
   </a>
 </p>
 
-
-<h3 align="center" style="
-  color: #8D6E63;
-  font-weight: 600;
-  margin-top: -10px;
-">
-  🚀 A Passionate Programmer
-</h3>
-
 <!-- Typing animation -->
 <p align="center">
   <a href="https://git.io/typing-svg" aria-label="Typing animation">
@@ -49,18 +40,18 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 💻 I like programming
-- 🌱 Learning **React** & modern front-end best practices  
-- 🎯 My goal for now is becoming a **Full-Stack MERN Developer**  
-- ⚡ Fun fact: Programming currently is a hobby, im still wondering if this is the career i want to take
+- I like programming
+- Im 17.
+- My goal for now is becoming a **Full-Stack MERN Developer**  
+- Fun fact: Programming currently is a hobby, im still wondering if this is the career i want to take
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
-### 💻 Languages & Frameworks
+### Languages & Frameworks
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" /></a>
@@ -72,7 +63,7 @@
 
 </p>
 
-### 🛠 Tools
+### Tools
 <p align="center">
   <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
   <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -83,7 +74,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LakBud&show_icons=true&title_color=5D4037&icon_color=8D6E63&text_color=5D4037&bg_color=F7F3F0&border_radius=12" />
@@ -93,20 +84,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakBud&layout=compact&title_color=5D4037&text_color=5D4037&bg_color=F7F3F0&border_radius=12" />
 </p>
 
-
----
-
-## 🌟 Contact
-
-<p align="center">
-  <a href="https://x.com/BuddoYap" target="_blank" rel="noopener noreferrer" aria-label="X">
-    <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x-twitter&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/c/Budosso" target="_blank" rel="noopener noreferrer" aria-label="YouTube">
-    <img src="https://img.shields.io/badge/-YouTube-BB0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-    <a href="https://buddo.vercel.app" target="_blank" rel="noopener noreferrer" aria-label="Portfolio">
-    <img src="https://img.shields.io/badge/-Portfolio-8D6E63?style=for-the-badge&logo=none&logoColor=white" alt="Portfolio Badge"/>
-  </a>
-</p>
 
