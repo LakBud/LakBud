@@ -60,6 +60,7 @@
   <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black" /></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a>
   <a href="https://sass-lang.com/" target="_blank"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3178C3?style=for-the-badge&logo=python&logoColor=white" /></a>
 
 </p>
 
