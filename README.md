@@ -33,7 +33,7 @@
     <a href="https://buddo.vercel.app" target="_blank" rel="noopener noreferrer" aria-label="Portfolio">
     <img src="https://img.shields.io/badge/-Portfolio-8D6E63?style=for-the-badge&logo=none&logoColor=white" alt="Portfolio Badge"/>
   </a>
-  <a href="https://www.youtube.com/c/Budosso" target="_blank" rel="noopener noreferrer" aria-label="YouTube">
+  <a href="https://www.youtube.com/@Budosso" target="_blank" rel="noopener noreferrer" aria-label="YouTube">
     <img src="https://img.shields.io/badge/-YouTube-BB0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
