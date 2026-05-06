@@ -45,7 +45,6 @@
 - I like programming
 - Im 17.
 - My goal for now is becoming a **Full-Stack MERN Developer**  
-- Fun fact: Programming currently is a hobby, im still wondering if this is the career i want to take
 
 ---
 
