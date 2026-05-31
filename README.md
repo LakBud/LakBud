@@ -7,7 +7,7 @@
   text-shadow: 0 0 12px rgba(141, 110, 99, 0.4);
   letter-spacing: 2px;
 ">
-  Lakhmir
+  Buddo
 </h1>
 
 <p align="center">
