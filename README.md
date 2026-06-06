@@ -1,39 +1,23 @@
-<!-- Title -->
-<h1 align="center" style="
-  font-weight: 900;
-  background: linear-gradient(90deg, #5D4037, #8D6E63);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  text-shadow: 0 0 12px rgba(141, 110, 99, 0.4);
-  letter-spacing: 2px;
-">
-  Buddo
-</h1>
+<h1 align="center">Buddo</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LakBud&style=flat-square&color=8D6E63" alt="Profile Views" />
-    <a href="https://github.com/LakBud" target="_blank">
-    <img src="https://img.shields.io/github/followers/LakBud?label=Followers&style=flat-square&color=8D6E63" alt="GitHub Followers" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=8D6E63&center=true&vCenter=true&width=600&lines=Fullstack+Developer;MERN+Stack+%7C+React+%7C+TypeScript;" />
   </a>
 </p>
 
-<!-- Typing animation -->
 <p align="center">
-  <a href="https://git.io/typing-svg" aria-label="Typing animation">
-    <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&color=8D6E63&center=true&vCenter=true&width=600&lines=Front-End+Developer;Building+Awesome+Web+Apps;Learning+React+and+JavaScript" alt="Typing SVG" />
+  <a href="https://buddo.vercel.app">
+    <img src="https://img.shields.io/badge/-Portfolio-8D6E63?style=for-the-badge&logoColor=white" />
   </a>
-</p>
-
-
-
-<p align="center">
-    <a href="https://x.com/BuddoYap" target="_blank" rel="noopener noreferrer" aria-label="X">
+  <a href="https://x.com/BuddoYap">
     <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x-twitter&logoColor=white" />
   </a>
-    <a href="https://buddo.vercel.app" target="_blank" rel="noopener noreferrer" aria-label="Portfolio">
-    <img src="https://img.shields.io/badge/-Portfolio-8D6E63?style=for-the-badge&logo=none&logoColor=white" alt="Portfolio Badge"/>
-  </a>
-  <a href="https://www.youtube.com/@Budosso" target="_blank" rel="noopener noreferrer" aria-label="YouTube">
+  <a href="https://www.youtube.com/@Budosso">
     <img src="https://img.shields.io/badge/-YouTube-BB0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
@@ -42,48 +26,37 @@
 
 ## About Me
 
-- I like programming
-- Im 17.
-- I am a self-proclaimed **Full-Stack MERN Developer**  
+- Fullstack developer based in Norway, 17 years old
+- Certified through **Full Stack Open** — University of Helsinki (14 ECTS)
+- Building AI-powered web applications with the MERN stack
+- Open to apprenticeships and junior positions in web development
+
+---
+
+## Projects
+
+| Project | Description | Stack | Link |
+|---|---|---|---|
+| **Applera (WORK IN PROGRESS)** | AI-powered job application assistant — generates cover letters, email drafts, CV summaries and interview prep | React, Node.js, Express, MongoDB | [](https://applera.vercel.app) |
+| **Fitoras** | Professional training application with drag-and-drop planning and 800+ exercises — 100/100 Lighthouse score | React, TypeScript, Tailwind, Zustand | [fitoras.vercel.app](https://fitoras.vercel.app) |
+| **Norwegian Oil Impact** | Interactive data analysis platform visualizing oil prices impact on the Norwegian market using linear regression and volatility analysis | Python, Pandas, Streamlit, Plotly | [norwegian-oil-impact.streamlit.app](https://norwegian-oil-impact.streamlit.app) |
 
 ---
 
 ## Tech Stack
 
-### Languages & Frameworks
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7E01D?style=for-the-badge&logo=javascript&logoColor=black" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3178C3?style=for-the-badge&logo=python&logoColor=white" /></a>
-  <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black" /></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a>
-  <a href="https://sass-lang.com/" target="_blank"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
-</p>
-
-### Tools
-<p align="center">
-  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
-  <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
-  <a href="https://vercel.com/" target="_blank"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.zsh.org/" target="_blank"><img src="https://img.shields.io/badge/Zsh-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 ---
-
-## Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LakBud&show_icons=true&title_color=5D4037&icon_color=8D6E63&text_color=5D4037&bg_color=F7F3F0&border_radius=12" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LakBud&ring=8D6E63&fire=5D4037&currStreakLabel=5D4037&sideNums=8D6E63&sideLabels=5D4037&background=F7F3F0&border_radius=12" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakBud&layout=compact&title_color=5D4037&text_color=5D4037&bg_color=F7F3F0&border_radius=12" />
-</p>
-
 
