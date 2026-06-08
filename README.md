@@ -37,7 +37,7 @@
 
 | Project | Description | Stack | Link |
 |---|---|---|---|
-| **Applera (WORK IN PROGRESS)** | AI-powered job application assistant — generates cover letters, email drafts, CV summaries and interview prep | React, Node.js, Express, MongoDB | [](https://applera.vercel.app) |
+| **Applera** | AI-powered job application assistant — generates cover letters, email drafts, CV summaries and interview prep | React, Node.js, Express, MongoDB | [https://applera.site](https://applera.site) |
 | **Fitoras** | Professional training application with drag-and-drop planning and 800+ exercises — 100/100 Lighthouse score | React, TypeScript, Tailwind, Zustand | [fitoras.vercel.app](https://fitoras.vercel.app) |
 | **Norwegian Oil Impact** | Interactive data analysis platform visualizing oil prices impact on the Norwegian market using linear regression and volatility analysis | Python, Pandas, Streamlit, Plotly | [norwegian-oil-impact.streamlit.app](https://norwegian-oil-impact.streamlit.app) |
 
