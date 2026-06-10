@@ -1,4 +1,4 @@
-<h1 align="center">Buddo</h1>
+<h1 align="center">LakBud</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LakBud&style=flat-square&color=8D6E63" alt="Profile Views" />
