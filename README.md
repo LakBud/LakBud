@@ -27,7 +27,6 @@
 ## About Me
 
 - Fullstack developer based in Norway, 17 years old
-- Certified through **Full Stack Open** — University of Helsinki (14 ECTS)
 - Building AI-powered web applications with the MERN stack
 - Open to apprenticeships and junior positions in web development
 
