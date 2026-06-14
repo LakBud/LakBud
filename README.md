@@ -27,7 +27,6 @@
 ## About Me
 
 - Fullstack developer based in Norway, 17 years old
-- Building AI-powered web applications with the MERN stack
 - Open to apprenticeships and junior positions in web development
 
 ---
