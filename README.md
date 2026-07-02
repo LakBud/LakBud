@@ -33,11 +33,11 @@
 
 ## Projects
 
-| Project | Description | Stack | Link |
+| Project | Description | Stack | Live Link |
 |---|---|---|---|
-| **Applera** | AI-powered job application assistant — generates cover letters, email drafts, CV summaries and interview prep | React, Node.js, Express, MongoDB | [https://applera.site](https://applera.site) |
-| **Fitoras** | Professional training application with drag-and-drop planning and 800+ exercises | React, TypeScript, Tailwind, Zustand | [fitoras.vercel.app](https://fitoras.vercel.app) |
-| **Norwegian Oil Impact** | Interactive data analysis platform visualizing oil prices impact on the Norwegian market using linear regression and volatility analysis | Python, Pandas, Streamlit, Plotly | [norwegian-oil-impact.streamlit.app](https://norwegian-oil-impact.streamlit.app) |
+|  [**Applera**](https://github.com/LakBud/Applera) | AI-powered job application assistant — generates cover letters, email drafts, CV summaries and interview prep | React, Node.js, Express, MongoDB | [https://applera.site](https://applera.site) |
+| [**Fitoras**](https://github.com/LakBud/Fitoras)  | Professional training application with drag-and-drop planning and 800+ exercises | React, TypeScript, Tailwind, Zustand | [fitoras.vercel.app](https://fitoras.vercel.app) |
+| [**Norwegian Oil Impact**](https://github.com/LakBud/oil-impact-on-norwegian-economy)| Interactive data analysis platform visualizing oil prices impact on the Norwegian market using linear regression and volatility analysis | Python, Pandas, Streamlit, Plotly | [norwegian-oil-impact.streamlit.app](https://norwegian-oil-impact.streamlit.app) |
 
 ---
 
