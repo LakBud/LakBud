@@ -26,7 +26,7 @@
 
 ## About Me
 
-- Fullstack developer based in Norway, 17 years old
+- Fullstack developer based in Norway, 18 years old
 - Open to apprenticeships and junior positions in web development
 
 ---
