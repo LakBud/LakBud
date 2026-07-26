@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://buddo.vercel.app">
+  <a href="https://lbud.vercel.app">
     <img src="https://img.shields.io/badge/-Portfolio-8D6E63?style=for-the-badge&logoColor=white" />
   </a>
   <a href="https://x.com/BuddoYap">
