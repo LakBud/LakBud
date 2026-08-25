@@ -27,20 +27,7 @@
 ## About Me
 
 - 18 year old Fullstack developer.
-- Open to apprenticeships and junior positions in web development
-
----
-
-## Projects
-
-| Project | Description | Stack | Live Link |
-|---|---|---|---|
-| [**Applera**](https://github.com/LakBud/Applera) | AI-powered job application assistant — generates cover letters, email drafts, CV summaries and interview prep | React, Node.js, Express, MongoDB | [https://applera.site](https://applera.site) |
-| [**VernLLM**](https://github.com/LakBud/vernLLM) | Published npm package (850+ downloads) adding retries, caching, and schema support to OpenAI calls | TypeScript, Node.js, Next.js, Vitest | [vernllm.vercel.app](https://vernllm.vercel.app) |
-| [**Fitoras**](https://github.com/LakBud/Fitoras) | Professional training application with drag-and-drop planning and 800+ exercises | React, TypeScript, Tailwind, Zustand | [fitoras.vercel.app](https://fitoras.vercel.app) |
-| [**Norwegian Oil Impact**](https://github.com/LakBud/oil-impact-on-norwegian-economy) | Interactive data analysis platform visualizing oil prices impact on the Norwegian market using linear regression and volatility analysis | Python, Pandas, Streamlit, Plotly | [norwegian-oil-impact.streamlit.app](https://norwegian-oil-impact.streamlit.app) |
-
----
+- Open to apprenticeships and junior positions in SWE jobs
 
 ## Tech Stack
 
