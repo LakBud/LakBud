@@ -22,13 +22,12 @@
   </a>
 </p>
 
----
 
-## About Me
+<h2 align="center">About Me</h2>
 
 <p align="center">18 year old Fullstack developer. Open to apprenticeships and junior positions in SWE jobs</p>
 
-## Tech Stack
+<h2 align="center">Tech Stack</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -39,6 +38,4 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
-
----
 
