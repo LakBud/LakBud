@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=8D6E63&center=true&vCenter=true&width=600&lines=Fullstack+Developer;MERN+Stack+%7C+React+%7C+TypeScript;" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=8D6E63&center=true&vCenter=true&width=600&lines=App+Engineer;MERN+Stack+%7C+React+%7C+TypeScript;" />
   </a>
 </p>
 
@@ -25,7 +25,7 @@
 
 <h2 align="center">About Me</h2>
 
-<p align="center">18 year old Fullstack developer. Open to apprenticeships and junior positions in SWE jobs</p>
+<p align="center">18 year old App Engineer. Open to apprenticeships and junior positions in SWE jobs</p>
 
 <h2 align="center">Tech Stack</h2>
 
